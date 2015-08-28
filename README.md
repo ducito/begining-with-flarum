@@ -1,2 +1,3 @@
-# begining-with-flarum
-Simple forum with Flarum
+#Simple forum with Flarum
+
+https://github.com/flarum/flarum
